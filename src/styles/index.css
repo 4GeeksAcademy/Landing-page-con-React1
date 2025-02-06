@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.custom-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
